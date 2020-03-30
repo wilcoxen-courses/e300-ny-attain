@@ -31,10 +31,10 @@ the `'ratio'` variable.
 1. Add the layer with country boundaries.
 
 1. Use Save As to save the project in the GitHub directory for the 
-assignment under the name `'attain'` (the extension `'.gqz'` will 
-be added automatically). Be sure it ends up in the directory for the 
-assignment so it will be pushed correctly. Also, if you're using an older
-version of QGIS the extension may be different.
+assignment under the name `'attain'`. The extension `'.gqz'` will 
+be added automatically; if you're using an older version of QGIS the 
+extension may be different. Be sure it ends up in the directory for the 
+assignment so it will be pushed correctly. Also, .
 
 1. Add county name labels and turn on the text buffer around the name.
 
@@ -51,7 +51,7 @@ classes. You can use any color scheme you like.
 1. Export the map as **below_hs.png** and save it in the directory 
 for the assignment.
 
-1. Change the heat map to show `'at_pct_<hs'`. Use pretty breaks and
+1. Change the heat map to show `'at_ratio'`. Use pretty breaks and
 5 classes. You can use any color scheme you like.
 
 1. Export the new map as **ratio.png** to the directory for the assignment.
