@@ -32,9 +32,9 @@ the `'ratio'` variable.
 
 1. Use Save As to save the project in the GitHub directory for the 
 assignment under the name `'attain'`. The extension `'.gqz'` will 
-be added automatically; if you're using an older version of QGIS the 
-extension may be different. Be sure it ends up in the directory for the 
-assignment so it will be pushed correctly. Also, .
+be added automatically (if you're using an older version of QGIS it 
+may be different). Be sure the file ends up in the directory for the 
+assignment so it will be pushed correctly. 
 
 1. Add county name labels and turn on the text buffer around the name.
 
