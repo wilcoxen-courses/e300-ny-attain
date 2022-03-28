@@ -6,7 +6,7 @@ This exercise is an introduction to QGIS. It focuses on mapping some of the educ
 
 ## Input Data
 
-There are two input files on the Google drive for the course: **tl_2016_us_county_36.zip**, a shapefile giving the boundaries of New York counties, and **attainment.csv**, a file containing the results from the educational attainment assignment. Variables in the attainment file with prefix `'pct_'` give the percentage of the population in the group indicated by the suffix, such as `'<hs'`. The ratio variable is provided as well. For future reference, the country boundary file was constructed by filtering a Census TIGER/Line shapefile for all counties in the US down to just those in New York state.
+There are two input files on the Google drive for the course: **cb_2019_us_county_500k_36.zip**, a shapefile giving the boundaries of New York counties, and **attainment.csv**, a file containing the results from the educational attainment assignment. Variables in the attainment file with prefix `'pct_'` give the percentage of the population in the group indicated by the suffix, such as `'<hs'`. The ratio variable is provided as well. For future reference, the country boundary file was constructed by filtering a Census cartographic boundary (cb) shapefile for all counties in the US down to just those in New York state.
 
 ## Deliverables
 
