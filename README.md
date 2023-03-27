@@ -10,7 +10,7 @@ There are two input files on the Google drive for the course: **cb_2019_us_count
 
 ## Deliverables
 
-One QGIS project file called **attain.gqz** and two PNG images: one called **map_below_hs.png** that is a heat map of the `'pct_<hs'` variable in `attainment.csv`, and another called **map_ratio.png** that is a heat map of the `'ratio'` variable.
+One QGIS project file called **attain.qgz** and two PNG images: one called **map_below_hs.png** that is a heat map of the `'pct_<hs'` variable in `attainment.csv`, and another called **map_ratio.png** that is a heat map of the `'ratio'` variable.
 
 ## Instructions
 
@@ -18,9 +18,9 @@ One QGIS project file called **attain.gqz** and two PNG images: one called **map
 
 1. Add the layer with country boundaries.
 
-1. Filter the counties down to those in New York State. The state FIPS code is in the `"STATEFP"` column and New York is `'36'".
+1. Filter the counties down to those in New York State. The state FIPS code is in the `"STATEFP"` column and New York is `'36'`.
 
-1. Use Save As to save the project in the GitHub directory for the assignment under the name `'attain'`. The extension `'.gqz'` will be added automatically. Be sure the file ends up in the directory for the assignment so it will be pushed correctly.
+1. Use Save As to save the project in the GitHub directory for the assignment under the name `'attain'`. The extension `'.qgz'` will be added automatically. Be sure the file ends up in the directory for the assignment so it will be pushed correctly.
 
 1. Add county name labels and turn on the text buffer around the name. Use 8 point type and turn on show all labels (on the paintbrush tab at the far right of the labels menus).
 
