@@ -34,6 +34,6 @@ makefile
 *.zip
 *.csv
 
-!attain.gqz
+!attain.qgz
 !map_below_hs.png
 !map_ratio.png
