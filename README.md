@@ -22,7 +22,7 @@ One QGIS project file called **attain.qgz** and two PNG images: one called **map
 
 1. Use Save As to save the project in the GitHub directory for the assignment under the name `'attain'`. The extension `'.qgz'` will be added automatically. Be sure the file ends up in the directory for the assignment so it will be pushed correctly.
 
-1. Add county name labels and turn on the text buffer around the name. Use 8 point type and turn on show all labels (on the paintbrush tab at the far right of the labels menus).
+1. Add county name labels and turn on the text buffer around the name. Use 8 point type and turn on "Allow overlaps if required" (on the paintbrush tab at the far right of the labels menus).
 
 1. Add the `'attainment.csv'` file. Set the data type for `geoid` field to Text.
 
